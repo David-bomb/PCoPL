@@ -5,4 +5,5 @@
 2) <a href="https://github.com/David-bomb/PCoPL/blob/main/1lab/OOP.py" target="_blank">Объектно-ориентированное</a> решение ЛР№1 на python
 3) Процедурное решение ЛР№1 на <a href="https://github.com/David-bomb/PCoPL/tree/main/lab1-kotlin" target="_blank">Kotlin</a>
 4) Процедурное <a href="https://github.com/David-bomb/PCoPL/tree/main/lab2.1" target="_blank">решение ЛР№2</a> на python
+
 5-6) <a href="https://github.com/David-bomb/PCoPL/tree/main/lab3" target="_blank">Решение ЛР№3</a> 
