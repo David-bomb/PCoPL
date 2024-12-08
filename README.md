@@ -8,5 +8,6 @@
 5) <a href="https://github.com/David-bomb/PCoPL/tree/main/lab3" target="_blank">Решение ЛР№3</a> (считается за 2 ЛР)
 
 ## Рубежные Контроли
+Сдано 2/2 РК
 1) <a href="https://github.com/David-bomb/PCoPL/tree/main/RK1" target="_blank"> РК№1 </a> выполнен
 1) <a href="https://github.com/David-bomb/PCoPL/tree/main/RK2" target="_blank"> РК№2 </a> выполнен
