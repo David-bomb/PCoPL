@@ -10,4 +10,8 @@
 ## Рубежные Контроли
 Сдано 2/2 РК
 1) <a href="https://github.com/David-bomb/PCoPL/tree/main/RK1" target="_blank"> РК№1 </a> выполнен
-1) <a href="https://github.com/David-bomb/PCoPL/tree/main/RK2" target="_blank"> РК№2 </a> выполнен
+2) <a href="https://github.com/David-bomb/PCoPL/tree/main/RK2" target="_blank"> РК№2 </a> выполнен
+
+## Домашнее задание
+Сдано 1/1 ДЗ
+1) <a href="https://github.com/David-bomb/PCoPL/tree/main/DZ" target="_blank">Дневник</a> изучения ЯП kotlin 
